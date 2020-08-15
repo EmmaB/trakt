@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <%= partial "head" %>
+  </head>
+  <body>
+    <%= partial "nav" %>
+    <main>
+      <aside>
+        <%= partial "links" %>
+      </aside>
+      <div class="articles">
+        <%= yield %>
+      </div>
+    </main>
+  </body>
+</html>

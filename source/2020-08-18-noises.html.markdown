@@ -1,0 +1,21 @@
+---
+
+title: What is up with noises?
+date: 2020-08-18
+pending: true
+tags: Maths
+topics: Waves
+img: hey.png
+layout: show
+
+---
+
+Watch the video <a href="https://www.youtube.com/watch?v=i_0DXxNeaQ0">What is up with Noises?</a> (The Science and Mathematics of Sound, Frequency, and Pitch) (12 mins).
+
+Write down three things you learned.
+
+READMORE
+
+### Answer:
+
+### Parent's comments:

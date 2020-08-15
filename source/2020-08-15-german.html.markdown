@@ -1,0 +1,21 @@
+---
+
+title: German
+layout: show
+tags: German
+topic: Duolingo
+img: blank.png
+date: 2020-08-15 00:00:00 UTC
+pending: false
+
+---
+
+Carry on with Duolingo.
+
+READMORE
+
+### Answer:
+
+### Parent's comments:
+
+Currently on a 37 day streak. I've not added all the previous days to Trakt.

@@ -1,0 +1,25 @@
+---
+
+title: Walk
+layout: show
+tags: Fitness
+topic: Nature
+img: walk.JPG
+date: 2020-07-21 00:00:00 UTC
+pending: false
+
+---
+
+Go for a walk.
+
+READMORE
+
+### Answer:
+
+Level unlocked!
+
+![](images/walk.JPG)
+
+### Parent's comments:
+
+He climbed, and also fell out of, a tree. We sat to have a picnic and calculated how many plant cells we could see from where we were sitting: about a billion, we thought.

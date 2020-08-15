@@ -1,0 +1,17 @@
+<article>
+  <div class="content">
+    <header>
+      <h1><a href="<%= article.url %>"><%= article.title %></a></h1>
+    </header>
+    <time><%= article.date.strftime("%a %d %b %Y") %></time>
+    <%= article.summary %>
+    <footer>
+      <% article.tags.each do |tag| %>
+        <%= link_to "##{tag.downcase}", tag_path(tag) %>
+      <% end %>
+      <%= link_to "##{article.data.topic}", topic_path(article.data.topic) %>
+      <a href="<%= article.url %>">Read more</a>
+    </footer>
+  </div>
+  <%= image_tag article.data.img if show_image %>
+</article>

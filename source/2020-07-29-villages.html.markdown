@@ -1,0 +1,23 @@
+---
+
+title: Villages
+layout: show
+tags: History
+topic: Minecraft
+img: village.JPG
+date: 2020-07-29 00:00:00 UTC
+pending: false
+
+---
+
+Design a village in Minecraft, thinking about how villages in the past worked. Give your mum a guided tour, pointing out how the economy of a village works.
+
+READMORE
+
+### Answer:
+
+See photo.
+
+### Parent's comments:
+
+Learned about palace economy, and read about Minoa, and how the civilization came to an end. Learned about the Iliad and Homeric oral tradition.

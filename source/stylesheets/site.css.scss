@@ -1,0 +1,130 @@
+body {
+  background-color: #F0F4F8;
+  color: #243B53;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
+    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
+    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
+    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  font-family: 'Spartan', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  color: #102A43;
+  margin-bottom: 5px;
+
+  a {
+    color: #102A43;
+    text-decoration: none;
+  }
+}
+
+a {
+  color: #0F609B;
+
+  &:focus,
+  &:hover {
+  color: #2680C2;
+  }
+}
+
+main {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+
+  @media only screen and (max-width: 1000px) {
+    flex-direction: column;
+    padding: 20px;
+  }
+}
+
+aside {
+  flex: 1;
+  padding-left: 70px;
+  max-width: 400px;
+
+  li {
+    font-size: 14px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+nav {
+  font-size: 20px;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+  height: 60px;
+  background-color: #ffffff;
+  margin-bottom: 60px;
+  border-bottom: 2px solid #003E6B;
+  z-index: 2;
+
+  .nav-content {
+    margin: 0 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  span {
+    margin-top: 24px;
+    font-size: 14px;
+    display: flex;
+    align-self: end;
+    padding: 10px;
+  }
+}
+
+article {
+  background-color: #ffffff;
+  border: 2px solid #003E6B;
+  border-radius: 4px;
+  margin-bottom: 30px;
+  display: flex;
+  width: 800px;
+
+  .content {
+    padding: 20px;
+    width: 75%;
+
+    img {
+      width: 37%;
+      display: block;
+      margin-left: 40px;
+      border: 2px solid
+      #154d77;
+      padding: 3px;
+    }
+  }
+
+  img {
+    border-left: 2px solid #003E6B;
+    width: 25%;
+    object-fit: cover;
+  }
+}
+
+footer , aside{
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  color: #4098D7
+}
+
+time {
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  font-size: 12px;
+}
+
+article.show {
+  display: inline;
+  padding: 20px
+}

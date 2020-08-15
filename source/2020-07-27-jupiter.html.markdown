@@ -1,0 +1,25 @@
+---
+
+title: Jupiter and moon
+layout: show
+tags: Physics
+topic: Space
+img: moon.JPG
+date: 2020-07-27 00:00:00 UTC
+pending: false
+
+---
+
+Look at Jupiter through the telescope.
+
+READMORE
+
+### Answer:
+
+Wow!
+
+### Parent's comments:
+
+Saw the moons of Jupiter, too, as well as the normal moon!
+
+![](images/moon.JPG)
