@@ -37,8 +37,12 @@ main {
 
 aside {
   flex: 1;
-  padding-left: 70px;
+  padding-left: 0;
   max-width: 400px;
+
+  @media only screen and (min-width: 1000px) {
+    padding-left: 70px;
+  }
 
   li {
     font-size: 14px;
@@ -66,10 +70,14 @@ nav {
   z-index: 2;
 
   .nav-content {
-    margin: 0 70px;
+    margin: 0 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+
+    @media only screen and (min-width: 1000px) {
+    margin: 0 70px;
+    }
   }
 
   span {
@@ -110,7 +118,7 @@ article {
     border-left: 2px solid #003E6B;
     width: 25%;
     object-fit: cover;
-    max-height: -webkit-fill-available;
+    max-height: 380px;
   }
 }
 
