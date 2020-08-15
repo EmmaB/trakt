@@ -12,17 +12,19 @@
 
       <article class="show">
         <div class="content">
-          <header>
-            <h1><a href="<%= current_page.url %>"><%= current_page.title %></a></h1>
-          </header>
-          <footer>
-            <% current_page.tags.each do |tag| %>
-              <%= link_to "##{tag.downcase}", tag_path(tag) %>
-            <% end %>
-            <%= link_to "##{current_page.data.topic}", topic_path(current_page.data.topic) %>
-          </footer>
-          <time><%= current_page.date.strftime("%a %d %b %Y")  %></time>
-          <%= current_page.body %>
+          <% if current_page.respond_to? :title %>
+            <header>
+              <h1><a href="<%= current_page.url %>"><%= current_page.title %></a></h1>
+            </header>
+            <footer>
+              <% current_page.tags.each do |tag| %>
+                <%= link_to "##{tag.downcase}", tag_path(tag) %>
+              <% end %>
+              <%= link_to "##{current_page.data.topic}", topic_path(current_page.data.topic) %>
+            </footer>
+            <time><%= current_page.date.strftime("%a %d %b %Y")  %></time>
+            <%= current_page.body %>
+          <% end %>
         </div>
       </article>
 

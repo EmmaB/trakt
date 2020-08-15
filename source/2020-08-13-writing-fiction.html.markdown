@@ -1,6 +1,6 @@
 ---
 
-title: Writing fiction
+title: "Writing fiction"
 layout: show
 tags: English
 topic: Minecraft
