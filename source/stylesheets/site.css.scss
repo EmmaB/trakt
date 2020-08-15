@@ -1,10 +1,6 @@
 body {
   background-color: #F0F4F8;
   color: #243B53;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
   font-family: 'Spartan', sans-serif;
   margin: 0;
 }
@@ -114,10 +110,11 @@ article {
     border-left: 2px solid #003E6B;
     width: 25%;
     object-fit: cover;
+    max-height: -webkit-fill-available;
   }
 }
 
-footer , aside{
+footer, aside{
   font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   color: #4098D7
 }
