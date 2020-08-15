@@ -59,4 +59,5 @@ activate :blog do |blog|
       template: '/topic.html'
     }
   }
+  blog.publish_future_dated = true
 end
