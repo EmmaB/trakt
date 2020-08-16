@@ -57,7 +57,8 @@ layout: layout
 * (Volunteering)[https://www.bucksmkerc.org.uk/get-involved/]
 * BBC microbit
 * [DK Findout!](https://www.dkfindout.com/uk/animals-and-nature/habitats-and-ecosystems/)
-* Coasts.
+* Coasts
+* [Printable paper](https://www.printablepaper.net/)
 
 ## Topics
 
