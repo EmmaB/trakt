@@ -16,12 +16,16 @@
   <% end %>
 </ul>
 
-<h5>By day</h5>
+<h5>By day (* next 7 days)</h5>
 <ul>
   <% blog.articles.sort_by {|a| a.date }.group_by {|a| a.date }.each do |date, articles| %>
-    <li><%= link_to "#{date.strftime("%a %d %b %Y")} (#{articles.size} #{pluralize("lesson", articles.size)})", blog_day_path(date.year, date.month, date.day) %></li>
+    <li>
+      <%= "*" if date > Time.zone.now && date < (Time.zone.now + 60*60*24*7) %>
+      <%= link_to "#{date.strftime("%a %d %b %Y")} (#{articles.size} #{pluralize("lesson", articles.size)})", blog_day_path(date.year, date.month, date.day) %>
+    </li>
   <% end %>
 </ul>
+
 
 <h5>Pending</h5>
 <ul>

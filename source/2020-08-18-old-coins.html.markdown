@@ -3,7 +3,7 @@
 title: Old coins
 layout: show
 tags: History
-topic: Coins
+topic: Coins & stamps
 img: coins.JPG
 date: 2020-08-18 00:00:00 UTC
 pending: true
