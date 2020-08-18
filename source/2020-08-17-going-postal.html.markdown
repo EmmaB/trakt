@@ -6,7 +6,7 @@ tags: English - reading
 topic: Comedy
 img: blank.png
 date: 2020-08-17 00:00:00 UTC
-pending: true
+pending: false
 
 ---
 
@@ -20,4 +20,8 @@ READMORE
 
 ### Answer:
 
+(Discussion)
+
 ### Parent's comments:
+
+We ended up reading much of an Alex Rider (Skeleton Keys) as well, contrasting Vetinari with Putin which was also fun.

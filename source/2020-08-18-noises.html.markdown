@@ -2,7 +2,7 @@
 
 title: What is up with noises?
 date: 2020-08-18
-pending: true
+pending: false
 tags: Maths
 topics: Waves
 img: hey.png
@@ -18,4 +18,8 @@ READMORE
 
 ### Answer:
 
+Done.
+
 ### Parent's comments:
+
+Didn't really engage on this one -- noted!

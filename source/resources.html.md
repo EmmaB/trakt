@@ -59,6 +59,7 @@ layout: layout
 * [DK Findout!](https://www.dkfindout.com/uk/animals-and-nature/habitats-and-ecosystems/)
 * Coasts
 * [Printable paper](https://www.printablepaper.net/)
+* Picture of the month
 
 ## Topics
 

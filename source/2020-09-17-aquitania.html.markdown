@@ -2,7 +2,6 @@
 title: Aquitania
 tags: History
 img: funnels.png
-date: 2020-08-17
 pending: true
 layout: show
 ---

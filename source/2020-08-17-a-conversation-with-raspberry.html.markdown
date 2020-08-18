@@ -6,7 +6,7 @@ tags: German
 topic: Nature
 img: blank.png
 date: 2020-08-17 00:00:00 UTC
-pending: true
+pending: false
 
 ---
 
@@ -16,4 +16,13 @@ READMORE
 
 ### Answer:
 
+He said: Wie geht's?
+I said: Mir geht's gut!
+
+Which means "I'm fine", or "I'm good".
+
+He definitely perked up!
+
 ### Parent's comments:
+
+After the conversation we were so jolly that we did a Duolingo together: second one of the day!

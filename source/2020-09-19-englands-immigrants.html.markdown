@@ -3,7 +3,6 @@
 title: England's Immigrants 1330-1550
 tags: History
 img: national-archives.png
-date: 2020-08-19
 pending: true
 layout: show
 
