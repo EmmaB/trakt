@@ -19,6 +19,10 @@ Hypothesis: There are living creatures in the water.
 
 Method: The glass was lowered into the water, carrying rocks to remove buoyancy. The water was examined by eye. The amount of water captured was 230ml.
 
+![](images/IMG_4716.JPG)
+![](images/IMG_4717.JPG)
+![](images/IMG_4719.JPG)
+
 Results: Nothing was found in the water except for some non-sentient dust.
 
 Conclusion: There isn't enough information to form a conclusion. We will have to do more experiments with more hypotheses.
