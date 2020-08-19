@@ -17,4 +17,16 @@ READMORE
 
 ### Answer:
 
+We are doing a T chart to track today's rain:
+
+
+`time  | water (ml)`
+
+`------------------`
+
+`11:06 |  0`
+
+`12:46 |  0.5`
+
+
 ### Parent's comments:
