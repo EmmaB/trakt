@@ -5,7 +5,6 @@ layout: show
 tags: Geography
 topic: Nature
 img: blank.png
-date: 2020-08-18 00:00:00 UTC
 pending: true
 
 ---

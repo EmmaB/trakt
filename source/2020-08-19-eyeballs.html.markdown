@@ -1,0 +1,25 @@
+---
+
+title: Eyeballs
+layout: show
+tags: Biology
+topic: Nature
+img: blank.png
+pending: true
+
+---
+
+Have a read of the page in the encylopedia about eyeballs. Write down three things you learn.
+
+READMORE
+
+### Answer:
+
+- There's a bit at the back of the eye called fovea which is extra-packed with rods and cones (searched for "eye parts" when we couldn't remember)
+- the retina is at the back of the eye
+- eyes are connected directly to the brain and the image the eye receives is reversed by the brain.
+
+
+### Parent's comments:
+
+Went on to research colour blindness and looked at Minecraft blocks with a red-green filter on. Noted how hard it was to distinguish between blocks when they're all greenish.
